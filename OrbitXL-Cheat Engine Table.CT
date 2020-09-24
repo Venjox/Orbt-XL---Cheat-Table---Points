@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Points"</Description>
+      <LastState Value="3000" RealAddress="13BB789AE8C"/>
+      <Color>4080FF</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"mono.dll"+00501AC8</Address>
+      <Offsets>
+        <Offset>2C</Offset>
+        <Offset>1C8</Offset>
+        <Offset>20</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>
+  Author: Venjox
+</Comments>
+</CheatTable>
